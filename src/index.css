@@ -24,7 +24,12 @@ ol {
   --text-color: #494c6b;
   --hr-color: #e3e4f1;
 }
-
+.dark{
+  --wihite:#25273D;;
+  --bacround: #171823;
+  --text-color:#C8CBE7;
+  --hr-color:#393A4B;
+}
 body {
   background-color: var(--bacround);
 }

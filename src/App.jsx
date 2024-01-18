@@ -4,6 +4,7 @@ function App() {
   const [text, setText] = useState("");
   const [todos, setTodos] = useState([]);
 
+
   const submit = (e) => {
     e.preventDefault();
     const copyTodos = [
